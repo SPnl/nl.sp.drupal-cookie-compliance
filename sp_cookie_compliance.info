@@ -1,0 +1,7 @@
+name = SP Cookie Compliance
+package = SP
+core = 7.x
+
+dependencies[] = eu_cookie_compliance
+dependencies[] = it_cookie_compliance
+
